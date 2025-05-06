@@ -1,4 +1,5 @@
-﻿namespace PrjCalculadora
+﻿using CalculadoraBiblioteca;
+namespace PrjCalculadora
 {
     internal class Program
     {

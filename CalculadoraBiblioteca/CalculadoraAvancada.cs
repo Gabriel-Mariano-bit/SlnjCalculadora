@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PrjCalculadora
+namespace CalculadoraBiblioteca
 {
-    internal class CalculadoraAvancada : Calculadora
+    public class CalculadoraAvancada
     {
         public double Potencia(double baseNum, double expoente)
         {
